@@ -11,6 +11,8 @@
 
 -⛓️​ 𝐄𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞
 
--🖥️​Estou aprendendo atualmente a programar jogos no Scratch e em JavaScript
+-🖥️​𝐄𝐬𝐭𝐨𝐮 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐚𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐫 𝐣𝐨𝐠𝐨𝐬 𝐧𝐨 𝐒𝐜𝐫𝐚𝐭𝐜𝐡 𝐞 𝐞𝐦 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+-🐍 𝐒𝐨𝐧𝐬𝐞𝐫𝐢𝐧𝐚
 
 ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●
